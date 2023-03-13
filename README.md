@@ -2,9 +2,9 @@
 
  I am currently a Ph.D. candidate at Seoul National University studying transportation engineering.
  My current research interest lies in 
-- Intelligent transportation systems, 
+- Intelligent transportation systems 
 - Traffic assignment 
-- Reinforcement learning.
+- Reinforcement learning
 
 Feel free to drop me an email if you wish to discuss any of the topics or any other subjects that may be of interest.
 
