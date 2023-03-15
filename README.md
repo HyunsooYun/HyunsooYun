@@ -6,6 +6,9 @@
 - Traffic assignment 
 - Reinforcement learning
 
+I'm excited to share that I'll be uploading the works from my published papers soon. 
+Additionally, I plan to upload the works as soon as the papers have been accepted. Stay tuned for more updates!
+
 Feel free to drop me an email if you wish to discuss any of the topics or any other subjects that may be of interest.
 
 - 📫 How to reach me: yoonhs1113@snu.ac.kr 
